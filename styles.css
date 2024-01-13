@@ -1,0 +1,22 @@
+.header {
+    font-size: 18;
+    font-weight: bold;
+    margin: [0, 0, 0, 10];
+  }
+  
+  .subheader {
+    font-size: 16;
+    font-weight: bold;
+    margin: [0, 10, 0, 5];
+  }
+  
+  .table-example {
+    margin: [0, 5, 0, 15];
+  }
+  
+  .table-header {
+    font-weight: bold;
+    font-size: 13;
+    color: black;
+  }
+  
